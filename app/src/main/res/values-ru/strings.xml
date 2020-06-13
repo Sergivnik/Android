@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Колдунство</string>
+    <string name="Wizardy">Колдовство</string>
+    <string name="Button_Send">Отправить</string>
+    <string name="PlaceHolder1">Введите сообщение</string>
+</resources>
